@@ -111,18 +111,18 @@
   <!-- Left Content: Title & Taglines -->
   <g transform="translate(80, 80)">
     <!-- Top Pill Badge -->
-    <rect x="0" y="0" width="280" height="28" rx="14" fill="#1e293b" stroke="#38bdf8" stroke-width="1.2" opacity="0.9" />
+    <rect x="400" y="0" width="280" height="28" rx="14" fill="#1e293b" stroke="#38bdf8" stroke-width="1.2" opacity="0.9" />
     <circle cx="14" cy="14" r="5" fill="#38bdf8">
       <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite" />
     </circle>
-    <text x="28" y="18" fill="#e2e8f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" letter-spacing="1">INTELLIGENT DOCUMENT AI</text>
+    <text x="428" y="18" fill="#e2e8f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" letter-spacing="1">INTELLIGENT DOCUMENT AI</text>
 
     <!-- Main Title -->
-    <text x="0" y="78" fill="url(#primaryGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="46" font-weight="800" letter-spacing="-0.5" filter="url(#softGlow)">Awesome Document</text>
-    <text x="0" y="130" fill="url(#primaryGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="46" font-weight="800" letter-spacing="-0.5" filter="url(#softGlow)">Parsing AI 📄⚡</text>
+    <text x="400" y="78" fill="url(#primaryGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="46" font-weight="800" letter-spacing="-0.5" filter="url(#softGlow)">Awesome Document</text>
+    <text x="400" y="130" fill="url(#primaryGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="46" font-weight="800" letter-spacing="-0.5" filter="url(#softGlow)">Parsing AI 📄⚡</text>
 
     <!-- Subtitle / Badges -->
-    <text x="0" y="172" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="400">
+    <text x="400" y="172" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="400">
       The Curated Guide to SOTA IDP, OCR, Vision-Language Models &amp; Document Extraction
     </text>
 
